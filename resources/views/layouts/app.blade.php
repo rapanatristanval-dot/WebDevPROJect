@@ -6,20 +6,21 @@
     <title>Personal Task Manager</title>
     <style>
         :root {
-            --bg: #edf6ff;
-            --panel: rgba(255,255,255,0.82);
+            --bg: #bbccdd;
+            --panel: rgba(255,255,255,0.9);
             --panel-strong: #ffffff;
             --primary: #2563eb;
             --primary-dark: #1d4ed8;
             --secondary: #dbeafe;
             --muted: #4b6b9b;
             --text: #0f172a;
-            --border: #cfe3ff;
+            --border: #230674;
+            --border-strong: #160a7e;
             --success-bg: #dbeafe;
             --success-text: #1d4ed8;
-            --warning-bg: #dbeafe;
-            --warning-text: #1e3a8a;
-            --danger: #ef4444;
+                --warning-bg: #dbeafe;
+                --warning-text: #1e3a8a;
+                --danger: #ef4444;
             --shadow: 0 20px 50px rgba(37, 99, 235, 0.14);
         }
 
@@ -29,7 +30,7 @@
             margin: 0;
             min-height: 100vh;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #e0f2fe 0%, #dbeafe 25%, #eff6ff 50%, #dbeafe 100%);
+            background: #9bc1ec;
             color: var(--text);
         }
 
@@ -56,7 +57,7 @@
 
         .card {
             background: var(--panel);
-            border: 1px solid rgba(255,255,255,0.5);
+            border: 2px solid var(--border-strong);
             border-radius: 24px;
             box-shadow: var(--shadow);
             padding: 28px;
@@ -120,9 +121,10 @@
 
         .summary-box {
             background: var(--panel-strong);
-            border: 1px solid var(--border);
+            border: 2px solid var(--border);
             border-radius: 18px;
             padding: 18px 20px;
+            box-shadow: 0 8px 18px rgba(59, 130, 246, 0.08);
         }
 
         .summary-box h3 {
@@ -202,6 +204,9 @@
             border-collapse: collapse;
             margin-top: 12px;
             background: rgba(255,255,255,0.4);
+            border: 2px solid var(--border);
+            border-radius: 18px;
+            overflow: hidden;
         }
 
         th, td {

@@ -3,7 +3,7 @@
 @section('content')
     <div class="page-header">
         <div>
-            <h1>Personal Task Manager</h1>
+            <h1>📍 Personal Task Manager</h1>
         </div>
         <a href="{{ route('tasks.create') }}" class="btn btn-primary">+ Add Task</a>
     </div>
