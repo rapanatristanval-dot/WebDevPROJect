@@ -15,7 +15,3 @@ Database Used: SQLite
 ## Project Overview
 This project is a simple Laravel-based personal task manager that allows a user to create, view, update, and delete tasks. It uses Laravel routes, a controller, a model, migrations, and Blade views to manage tasks efficiently.
 
-## Technologies Used
-- Laravel 12
-- SQLite database
-- Blade templating
