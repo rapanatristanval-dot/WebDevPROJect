@@ -1,8 +1,11 @@
 # Personal Task Manager
 
 Project Code: WST21-PM-2026-SF
+
 Student Name: RAPANA, TRISTAN VAL L.
+
 Course & Year: BSIT 2
+
 Database Used: SQLite
 
 ## Features
