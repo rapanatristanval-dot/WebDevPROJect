@@ -4,7 +4,7 @@ Project Code: WST21-PM-2026-SF
 
 Student Name: RAPANA, TRISTAN VAL L.
 
-Course & Year: BSIT 2
+Course & Year: BSIT 2 sec 1
 
 Database Used: SQLite
 
