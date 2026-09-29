@@ -28,6 +28,8 @@ This project is a simple Laravel-based personal task manager that allows a user 
 6. You can edit any task, update its status from Pending to Completed, or delete it when no longer needed.
 7. Blade views display the task information clearly in a user-friendly interface.
 
+   
+
 
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/82f694db-d8d6-4ca1-ac11-7b260b5ec8d4" />
 
