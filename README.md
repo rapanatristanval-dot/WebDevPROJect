@@ -18,3 +18,16 @@ Database Used: SQLite
 ## Project Overview
 This project is a simple Laravel-based personal task manager that allows a user to create, view, update, and delete tasks. It uses Laravel routes, a controller, a model, migrations, and Blade views to manage tasks efficiently.
 
+
+## How It Works
+1. Open the task manager and view all saved tasks in the dashboard.
+2. Click Add Task to enter a task name, description, due date, and status.
+3. The form sends the data through a Laravel route to the controller.
+4. The controller validates the input and saves it to the tasks table in the database.
+5. The task appears in the list with its current status and due date.
+6. You can edit any task, update its status from Pending to Completed, or delete it when no longer needed.
+7. Blade views display the task information clearly in a user-friendly interface.
+
+
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/82f694db-d8d6-4ca1-ac11-7b260b5ec8d4" />
+
