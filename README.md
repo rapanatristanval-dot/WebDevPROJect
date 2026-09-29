@@ -33,3 +33,6 @@ This project is a simple Laravel-based personal task manager that allows a user 
 
 <img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/ee193a72-8f75-4123-8d71-95f9e3ae4b08" />
 
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/be57a0b3-1e7d-4e85-a69a-0c0ab9860cac" />
+
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/c9de3c3b-fa0d-4efb-be20-9b5bc6a1adef" />
